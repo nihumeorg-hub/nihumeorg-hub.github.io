@@ -2409,10 +2409,12 @@ header.main-header .navbar-brand img{
 /************************************/
 
 .main-footer{
-	background-image: url('../images/footer-bg.png');
-	background-size: cover;
-	padding: 100px 0 0;
-	margin-bottom: 20px;
+    background-image: url('../images/footer-bg.png');
+    background-size: cover;
+    padding: 100px 0 0;
+    /* create visual breathing room from preceding section */
+    margin-top: 60px;
+    margin-bottom: 20px;
 }
 
 .footer-header{
@@ -5478,6 +5480,7 @@ header.main-header .navbar-brand img{
 
 	.main-footer{
 		padding: 50px 0 0;
+		margin-top: 40px; /* smaller gap on small screens */
 	}
 
 	.footer-header{
