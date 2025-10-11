@@ -681,11 +681,19 @@ header.main-header .navbar-brand img{
 }
 
 .header-btn{
-	text-align: end;
+    text-align: end;
 }
 
 .main-menu ul li.highlighted-menu{
     display: none;
+}
+
+/* Hide Resources menu (desktop and mobile) */
+#menu > li:nth-child(5){
+    display: none !important;
+}
+.slicknav_menu .slicknav_nav > li:nth-child(5){
+    display: none !important;
 }
 
 .responsive-menu,
