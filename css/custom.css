@@ -696,6 +696,14 @@ header.main-header .navbar-brand img{
     display: none !important;
 }
 
+/* Hide Partner menu (desktop and mobile) */
+#menu > li:nth-child(4){
+    display: none !important;
+}
+.slicknav_menu .slicknav_nav > li:nth-child(4){
+    display: none !important;
+}
+
 .responsive-menu,
 .navbar-toggle{
 	display: none;
