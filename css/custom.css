@@ -688,21 +688,8 @@ header.main-header .navbar-brand img{
     display: none;
 }
 
-/* Hide Resources menu (desktop and mobile) */
-#menu > li:nth-child(5){
-    display: none !important;
-}
-.slicknav_menu .slicknav_nav > li:nth-child(5){
-    display: none !important;
-}
-
-/* Hide Partner menu (desktop and mobile) */
-#menu > li:nth-child(4){
-    display: none !important;
-}
-.slicknav_menu .slicknav_nav > li:nth-child(4){
-    display: none !important;
-}
+/* Previously used to hide Resources and Partner menus. No longer needed
+   because items are removed from HTML. */
 
 .responsive-menu,
 .navbar-toggle{
