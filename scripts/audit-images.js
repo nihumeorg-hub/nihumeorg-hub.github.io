@@ -53,7 +53,7 @@ function extractKeywords(text) {
   const base = (text || '').toLowerCase();
   const cleaned = base.replace(/[^a-z0-9\s/&+-]/g, ' ');
   const words = cleaned.split(/\s+/).filter(Boolean);
-  const stop = new Set(['the','and','of','our','your','to','for','as','a','an','in','on','by','with','&','-','services','service','solution','solutions']);
+  const stop = new Set(['the','and','of','our','your','to','for','as','a','an','in','on','by','with','&','-','services','service','solution','solutions','features','frequently','asked','question']);
   const stems = words.filter(w => !stop.has(w));
   return Array.from(new Set(stems));
 }
@@ -66,8 +66,10 @@ const synonymMap = {
   architecture: ['architecture','design','reference','diagram','pattern'],
   consulting: ['consulting','strategy','roadmap','advisory','assessment'],
   crm: ['crm','customer','sales','pipeline','hubspot','salesforce'],
-  security: ['security','cyber','iso','soc','compliance','firewall','threat','protection'],
+  security: ['security','secure','cyber','iso','soc','compliance','firewall','threat','protection'],
   network: ['network','lan','wan','sd-wan','switch','router'],
+  collaboration: ['collaboration','collaborating','team','teamwork','cooperation'],
+  scalable: ['scalable','scale','scalability','growing','growth']
 };
 
 function expandKeywords(keywords) {
@@ -164,8 +166,9 @@ async function main() {
       const expanded = expandKeywords(kws);
       let matched = false;
       let matches = [];
-      // heuristics: ignore decorative and person/metric headings
-      if (it.hints?.isDecorative || it.hints?.isPerson || it.hints?.isMetric) {
+      const hasImage = !!it.imgSrc;
+      // heuristics: ignore decorative, person/metric headings, and headings without any image
+      if (!hasImage || it.hints?.isDecorative || it.hints?.isPerson || it.hints?.isMetric || expanded.length === 0) {
         matched = true;
       } else {
         const res = scoreMatch(it.imgAlt, it.imgSrc, expanded);
