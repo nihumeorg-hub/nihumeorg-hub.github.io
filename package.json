@@ -1,0 +1,13 @@
+{
+  "name": "aisolution-website-audit",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Audit scripts for image-context checks using Playwright",
+  "scripts": {
+    "audit:images": "node scripts/audit-images.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.48.2"
+  }
+}
+

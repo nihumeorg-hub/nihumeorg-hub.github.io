@@ -1,0 +1,8021 @@
+[
+  {
+    "page": "404.html",
+    "heading": "Oops! page not found",
+    "imgSrc": "images/404-error-img.png",
+    "imgAlt": "",
+    "keywords": [
+      "oops",
+      "page",
+      "not",
+      "found"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "404.html",
+    "heading": "Let's Work together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "404.html",
+    "heading": "Contact Us",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "contact",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-contact-links"
+    }
+  },
+  {
+    "page": "404.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  },
+  {
+    "page": "aaas.html",
+    "heading": "Discover our Services",
+    "imgSrc": "images/icon-hero-benefit-item-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "discover"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "page-category-list wow fadeinup"
+    }
+  },
+  {
+    "page": "aaas.html",
+    "heading": "Need a Help",
+    "imgSrc": "images/icon-hero-benefit-item-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "need",
+      "help"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "sidebar-cta-content"
+    }
+  },
+  {
+    "page": "aaas.html",
+    "heading": "What you get",
+    "imgSrc": "images/icon-services-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "what",
+      "you",
+      "get"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solutions-box"
+    }
+  },
+  {
+    "page": "aaas.html",
+    "heading": "Current vs. Target State",
+    "imgSrc": "images/icon-services-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "current",
+      "vs",
+      "target",
+      "state"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solution-item wow fadeinup"
+    }
+  },
+  {
+    "page": "aaas.html",
+    "heading": "Roadmaps & Governance",
+    "imgSrc": "images/icon-services-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "roadmaps",
+      "governance"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solution-item wow fadeinup"
+    }
+  },
+  {
+    "page": "aaas.html",
+    "heading": "Reference Blueprints",
+    "imgSrc": "images/icon-services-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "reference",
+      "blueprints"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solution-item wow fadeinup"
+    }
+  },
+  {
+    "page": "aaas.html",
+    "heading": "Executive Advisory",
+    "imgSrc": "images/icon-services-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "executive",
+      "advisory"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solution-item wow fadeinup"
+    }
+  },
+  {
+    "page": "aaas.html",
+    "heading": "Why Nihume for AaaS?",
+    "imgSrc": "images/icon-services-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "why",
+      "nihume",
+      "aaas"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-why-choose-box"
+    }
+  },
+  {
+    "page": "aaas.html",
+    "heading": "Outcome‑first",
+    "imgSrc": "images/icon-services-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "outcome",
+      "first"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-why-choose-content"
+    }
+  },
+  {
+    "page": "aaas.html",
+    "heading": "Vendor‑neutral",
+    "imgSrc": "images/icon-services-4.svg",
+    "imgAlt": "",
+    "keywords": [
+      "vendor",
+      "neutral"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-why-choose-content"
+    }
+  },
+  {
+    "page": "aaas.html",
+    "heading": "Fast start",
+    "imgSrc": "images/icon-services-7.svg",
+    "imgAlt": "",
+    "keywords": [
+      "fast",
+      "start"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-why-choose-content"
+    }
+  },
+  {
+    "page": "aaas.html",
+    "heading": "Engagement models",
+    "imgSrc": "images/service-benefit-img.jpg",
+    "imgAlt": "Architecture workshop",
+    "keywords": [
+      "engagement",
+      "models"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-benefit-content"
+    }
+  },
+  {
+    "page": "aaas.html",
+    "heading": "Let's Work together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "aaas.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "About us",
+    "imgSrc": "images/icon-about-counter-item-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "about",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Discover our journey of empowering businesses through cutting edge IT solutions, expert support, and innovation that drives growth, security, and long term digital transformation success.",
+    "imgSrc": "images/icon-about-counter-item-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "discover",
+      "journey",
+      "empowering",
+      "businesses",
+      "through",
+      "cutting",
+      "edge",
+      "it",
+      "expert",
+      "support",
+      "innovation",
+      "that",
+      "drives",
+      "growth",
+      "security",
+      "long",
+      "term",
+      "digital",
+      "transformation",
+      "success",
+      "helpdesk",
+      "service desk",
+      "help desk",
+      "24/7",
+      "24x7",
+      "headset",
+      "call center",
+      "support center",
+      "cyber",
+      "iso",
+      "soc",
+      "compliance",
+      "firewall",
+      "threat",
+      "protection"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "25+",
+    "imgSrc": "images/icon-about-counter-item-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "25+"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "about-counter-item"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "98%",
+    "imgSrc": "images/icon-about-counter-item-2.svg",
+    "imgAlt": "",
+    "keywords": [
+      "98"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "about-counter-item"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "24/7",
+    "imgSrc": "images/icon-about-counter-item-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "24/7",
+      "24x7"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "about-counter-item"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "99.9%",
+    "imgSrc": "images/icon-about-counter-item-4.svg",
+    "imgAlt": "",
+    "keywords": [
+      "99",
+      "9"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "about-counter-item"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "98%",
+    "imgSrc": "images/approach-review-counter-image.png",
+    "imgAlt": "",
+    "keywords": [
+      "98"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "approach-review-counter-image"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Reviews That Reflect Our Commitment",
+    "imgSrc": "images/approach-review-counter-image.png",
+    "imgAlt": "",
+    "keywords": [
+      "reviews",
+      "that",
+      "reflect",
+      "commitment"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "approach-review-counter-content"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Our approach",
+    "imgSrc": "images/icon-approach-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "approach"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Client-focus future ready IT consulting approach",
+    "imgSrc": "images/icon-approach-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "client-focus",
+      "future",
+      "ready",
+      "it",
+      "consulting",
+      "approach",
+      "strategy",
+      "roadmap",
+      "advisory",
+      "assessment"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Our Mission",
+    "imgSrc": "images/icon-approach-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "mission"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "approach-item-title"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Our Vision",
+    "imgSrc": "images/icon-approach-2.svg",
+    "imgAlt": "",
+    "keywords": [
+      "vision"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "approach-item-title"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Why choose us",
+    "imgSrc": "images/why-choose-image-1.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "why",
+      "choose",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Why smart businesses choose our expert IT support services",
+    "imgSrc": "images/why-choose-image-1.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "why",
+      "smart",
+      "businesses",
+      "choose",
+      "expert",
+      "it",
+      "support",
+      "helpdesk",
+      "service desk",
+      "help desk",
+      "24/7",
+      "24x7",
+      "headset",
+      "call center",
+      "support center"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "1K+",
+    "imgSrc": "images/why-choose-image-1.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "1k+"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "why-choose-content"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "98%",
+    "imgSrc": "images/icon-why-choose-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "98"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "why-choose-counter-item"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "320",
+    "imgSrc": "images/icon-why-choose-2.svg",
+    "imgAlt": "",
+    "keywords": [
+      "320"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "why-choose-content"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "24/7",
+    "imgSrc": "images/icon-why-choose-2.svg",
+    "imgAlt": "",
+    "keywords": [
+      "24/7",
+      "24x7"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "why-choose-support-title"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Technical Support",
+    "imgSrc": "images/icon-why-choose-2.svg",
+    "imgAlt": "",
+    "keywords": [
+      "technical",
+      "support",
+      "helpdesk",
+      "service desk",
+      "help desk",
+      "24/7",
+      "24x7",
+      "headset",
+      "call center",
+      "support center"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "why-choose-support-title"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "How It Works",
+    "imgSrc": "images/author-1.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "how",
+      "it",
+      "works"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Step-by-step breakdown of our reliable IT service approach",
+    "imgSrc": "images/author-1.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "step-by-step",
+      "breakdown",
+      "reliable",
+      "it",
+      "approach"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "01",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "01"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "how-work-stpe-no"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Discovery & Consultation",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "discovery",
+      "consultation"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "how-work-item-title"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "02",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "02"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "how-work-stpe-no"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Custom Strategy Design",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "custom",
+      "strategy",
+      "design"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "how-work-item-title"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "03",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "03"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "how-work-stpe-no"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Seamless Implementation",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "seamless",
+      "implementation"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "how-work-item-title"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "04",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "04"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "how-work-stpe-no"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Ongoing Support & Optimization",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "ongoing",
+      "support",
+      "optimization",
+      "helpdesk",
+      "service desk",
+      "help desk",
+      "24/7",
+      "24x7",
+      "headset",
+      "call center",
+      "support center"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "how-work-item-title"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "our success",
+    "imgSrc": "images/success-image.jpg",
+    "imgAlt": "Team celebrating project success",
+    "keywords": [
+      "success"
+    ],
+    "match": true,
+    "evidence": [
+      "success"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Our success stories that define IT excellence",
+    "imgSrc": "images/success-image.jpg",
+    "imgAlt": "Team celebrating project success",
+    "keywords": [
+      "success",
+      "stories",
+      "that",
+      "define",
+      "it",
+      "excellence"
+    ],
+    "match": true,
+    "evidence": [
+      "success"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Our Expertise",
+    "imgSrc": "images/expertise-image-1.png",
+    "imgAlt": "Developer writing code on multiple monitors",
+    "keywords": [
+      "expertise"
+    ],
+    "match": true,
+    "evidence": [
+      "expertise"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Transforming technology challenges into growth opportunities",
+    "imgSrc": "images/expertise-image-1.png",
+    "imgAlt": "Developer writing code on multiple monitors",
+    "keywords": [
+      "transforming",
+      "technology",
+      "challenges",
+      "into",
+      "growth",
+      "opportunities"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Reliable IT Solutions",
+    "imgSrc": "images/expertise-image-1.png",
+    "imgAlt": "Developer writing code on multiple monitors",
+    "keywords": [
+      "reliable",
+      "it"
+    ],
+    "match": true,
+    "evidence": [
+      "it"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "expertise-item-content"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Cloud Infrastructure & Migration",
+    "imgSrc": "images/expertise-image-2.png",
+    "imgAlt": "Cloud infrastructure and server racks",
+    "keywords": [
+      "cloud",
+      "infrastructure",
+      "migration",
+      "aws",
+      "azure",
+      "gcp",
+      "kubernetes",
+      "cluster",
+      "server"
+    ],
+    "match": true,
+    "evidence": [
+      "cloud",
+      "infrastructure",
+      "server"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "expertise-item-content"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Scalable as You Grow",
+    "imgSrc": "images/expertise-image-3.png",
+    "imgAlt": "City network lines symbolizing scalability",
+    "keywords": [
+      "scalable",
+      "you",
+      "grow"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "expertise-item-content"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Reliable IT Solutions",
+    "imgSrc": "images/expertise-image-1.png",
+    "imgAlt": "Developer writing code on multiple monitors",
+    "keywords": [
+      "reliable",
+      "it"
+    ],
+    "match": true,
+    "evidence": [
+      "it"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "expertise-item-content"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Real-Time Collaboration",
+    "imgSrc": "images/why-choose-image-1.jpg",
+    "imgAlt": "Team collaborating in real time",
+    "keywords": [
+      "real-time",
+      "collaboration"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "expertise-item-content"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Our team",
+    "imgSrc": "images/team-1.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "team"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "The talented team behind our technology excellence worldwide",
+    "imgSrc": "images/team-1.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "talented",
+      "team",
+      "behind",
+      "technology",
+      "excellence",
+      "worldwide"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "michael johnson",
+    "imgSrc": "images/team-1.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "michael",
+      "johnson"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "team-content"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Sophia Martinez",
+    "imgSrc": "images/team-2.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "sophia",
+      "martinez"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "team-content"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "David Anderson",
+    "imgSrc": "images/team-3.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "david",
+      "anderson"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "team-content"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Emily Thompson",
+    "imgSrc": "images/team-4.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "emily",
+      "thompson"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "team-content"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Our Testimonials",
+    "imgSrc": "images/author-1.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "testimonials"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Client testimonials that showcase our commitment to excellence in IT services",
+    "imgSrc": "images/author-1.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "client",
+      "testimonials",
+      "that",
+      "showcase",
+      "commitment",
+      "excellence",
+      "it"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Darlene Robertson",
+    "imgSrc": "images/author-1.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "darlene",
+      "robertson"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "author-content"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Daniel Johnson",
+    "imgSrc": "images/author-2.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "daniel",
+      "johnson"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "author-content"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Marsh drary",
+    "imgSrc": "images/author-3.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "marsh",
+      "drary"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "author-content"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Ethan Miller",
+    "imgSrc": "images/author-4.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "ethan",
+      "miller"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "author-content"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "FAQ's",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "faq",
+      "s"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Answers to common questions about our IT services.",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "answers",
+      "common",
+      "questions",
+      "about",
+      "it"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "1. What types of IT services do you provide?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "1",
+      "what",
+      "types",
+      "it",
+      "do",
+      "you",
+      "provide"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "2. Can you customize IT solutions for our business?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "2",
+      "can",
+      "you",
+      "customize",
+      "it",
+      "business"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "3. How secure are your IT services?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "3",
+      "how",
+      "secure",
+      "are",
+      "it"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "4. What industries do you work with?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "4",
+      "what",
+      "industries",
+      "do",
+      "you",
+      "work"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "5. How do we get started with your services?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "5",
+      "how",
+      "do",
+      "we",
+      "get",
+      "started"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Let's Work together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Contact Us",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "contact",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-contact-links"
+    }
+  },
+  {
+    "page": "about.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  },
+  {
+    "page": "about.html",
+    "type": "duplicate-heading",
+    "key": "98",
+    "count": 3
+  },
+  {
+    "page": "about.html",
+    "type": "duplicate-heading",
+    "key": "24 7",
+    "count": 2
+  },
+  {
+    "page": "about.html",
+    "type": "duplicate-heading",
+    "key": "reliable it solutions",
+    "count": 2
+  },
+  {
+    "page": "banking-principle-architecture.html",
+    "heading": "Discover our Services",
+    "imgSrc": "images/icon-hero-benefit-item-2.svg",
+    "imgAlt": "",
+    "keywords": [
+      "discover"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "page-category-list wow fadeinup"
+    }
+  },
+  {
+    "page": "banking-principle-architecture.html",
+    "heading": "Need a Help",
+    "imgSrc": "images/icon-hero-benefit-item-2.svg",
+    "imgAlt": "",
+    "keywords": [
+      "need",
+      "help"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "sidebar-cta-content"
+    }
+  },
+  {
+    "page": "banking-principle-architecture.html",
+    "heading": "Focus areas",
+    "imgSrc": "images/icon-services-4.svg",
+    "imgAlt": "",
+    "keywords": [
+      "focus",
+      "areas"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solutions-box"
+    }
+  },
+  {
+    "page": "banking-principle-architecture.html",
+    "heading": "Core & Payments",
+    "imgSrc": "images/icon-services-4.svg",
+    "imgAlt": "",
+    "keywords": [
+      "core",
+      "payments"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solution-item wow fadeinup"
+    }
+  },
+  {
+    "page": "banking-principle-architecture.html",
+    "heading": "Open Banking & APIs",
+    "imgSrc": "images/icon-services-4.svg",
+    "imgAlt": "",
+    "keywords": [
+      "open",
+      "banking",
+      "apis"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solution-item wow fadeinup"
+    }
+  },
+  {
+    "page": "banking-principle-architecture.html",
+    "heading": "Risk & Compliance",
+    "imgSrc": "images/icon-services-4.svg",
+    "imgAlt": "",
+    "keywords": [
+      "risk",
+      "compliance"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solution-item wow fadeinup"
+    }
+  },
+  {
+    "page": "banking-principle-architecture.html",
+    "heading": "Data & Events",
+    "imgSrc": "images/icon-services-4.svg",
+    "imgAlt": "",
+    "keywords": [
+      "data",
+      "events"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solution-item wow fadeinup"
+    }
+  },
+  {
+    "page": "banking-principle-architecture.html",
+    "heading": "Why Nihume",
+    "imgSrc": "images/icon-services-4.svg",
+    "imgAlt": "",
+    "keywords": [
+      "why",
+      "nihume"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-why-choose-box"
+    }
+  },
+  {
+    "page": "banking-principle-architecture.html",
+    "heading": "Principle‑driven",
+    "imgSrc": "images/icon-services-4.svg",
+    "imgAlt": "",
+    "keywords": [
+      "principle",
+      "driven"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-why-choose-content"
+    }
+  },
+  {
+    "page": "banking-principle-architecture.html",
+    "heading": "Pragmatic modernization",
+    "imgSrc": "images/icon-services-7.svg",
+    "imgAlt": "",
+    "keywords": [
+      "pragmatic",
+      "modernization"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-why-choose-content"
+    }
+  },
+  {
+    "page": "banking-principle-architecture.html",
+    "heading": "Alignment",
+    "imgSrc": "images/icon-services-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "alignment"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-why-choose-content"
+    }
+  },
+  {
+    "page": "banking-principle-architecture.html",
+    "heading": "Let's Work together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "banking-principle-architecture.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  },
+  {
+    "page": "blog-single.html",
+    "heading": "Cut costs, boost security, and stay future-ready.",
+    "imgSrc": "images/post-2.jpg",
+    "imgAlt": "Developer typing at backlit keyboard",
+    "keywords": [
+      "cut",
+      "costs",
+      "boost",
+      "security",
+      "stay",
+      "future-ready",
+      "cyber",
+      "iso",
+      "soc",
+      "compliance",
+      "firewall",
+      "threat",
+      "protection"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "post-entry"
+    }
+  },
+  {
+    "page": "blog-single.html",
+    "heading": "Let's Work together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "blog-single.html",
+    "heading": "Contact Us",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "contact",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-contact-links"
+    }
+  },
+  {
+    "page": "blog-single.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  },
+  {
+    "page": "blog.html",
+    "heading": "How Cloud Computing is Revolutionizing Small Business IT",
+    "imgSrc": "images/post-1.jpg",
+    "imgAlt": "Clean code and best practices",
+    "keywords": [
+      "how",
+      "cloud",
+      "computing",
+      "is",
+      "revolutionizing",
+      "small",
+      "business",
+      "it",
+      "migration",
+      "infrastructure",
+      "aws",
+      "azure",
+      "gcp",
+      "kubernetes",
+      "cluster",
+      "server"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "post-item-content"
+    }
+  },
+  {
+    "page": "blog.html",
+    "heading": "Why Your Business Needs a Managed IT Services Provider",
+    "imgSrc": "images/post-2.jpg",
+    "imgAlt": "Developer at keyboard",
+    "keywords": [
+      "why",
+      "business",
+      "needs",
+      "managed",
+      "it",
+      "provider"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "post-item-content"
+    }
+  },
+  {
+    "page": "blog.html",
+    "heading": "Boosting Productivity Through Smart IT Infrastructure Planning",
+    "imgSrc": "images/post-3.jpg",
+    "imgAlt": "Team whiteboard strategy session",
+    "keywords": [
+      "boosting",
+      "productivity",
+      "through",
+      "smart",
+      "it",
+      "infrastructure",
+      "planning"
+    ],
+    "match": true,
+    "evidence": [
+      "it"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "post-item-content"
+    }
+  },
+  {
+    "page": "blog.html",
+    "heading": "Cybersecurity in the Age of Remote Work: Preparing for a New Wave",
+    "imgSrc": "images/post-4.jpg",
+    "imgAlt": "Modern open office collaboration",
+    "keywords": [
+      "cybersecurity",
+      "age",
+      "remote",
+      "work",
+      "preparing",
+      "new",
+      "wave"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "post-item-content"
+    }
+  },
+  {
+    "page": "blog.html",
+    "heading": "The Future of Cloud Computing: Trends to Watch in 2025",
+    "imgSrc": "images/post-5.jpg",
+    "imgAlt": "Laptop workspace setup",
+    "keywords": [
+      "future",
+      "cloud",
+      "computing",
+      "trends",
+      "watch",
+      "2025",
+      "migration",
+      "infrastructure",
+      "aws",
+      "azure",
+      "gcp",
+      "kubernetes",
+      "cluster",
+      "server"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "post-item-content"
+    }
+  },
+  {
+    "page": "blog.html",
+    "heading": "Driving Business Efficiency with DevOps & Automation",
+    "imgSrc": "images/post-6.jpg",
+    "imgAlt": "Project planning around table",
+    "keywords": [
+      "driving",
+      "business",
+      "efficiency",
+      "devops",
+      "automation"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "post-item-content"
+    }
+  },
+  {
+    "page": "blog.html",
+    "heading": "Let's Work together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "blog.html",
+    "heading": "Contact Us",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "contact",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-contact-links"
+    }
+  },
+  {
+    "page": "blog.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  },
+  {
+    "page": "contact.html",
+    "heading": "contact us",
+    "imgSrc": "images/icon-mail-accent.svg",
+    "imgAlt": "",
+    "keywords": [
+      "contact",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "contact.html",
+    "heading": "Get in touch with us",
+    "imgSrc": "images/icon-mail-accent.svg",
+    "imgAlt": "",
+    "keywords": [
+      "get",
+      "touch",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "contact.html",
+    "heading": "Need a Help",
+    "imgSrc": "images/icon-mail-accent.svg",
+    "imgAlt": "",
+    "keywords": [
+      "need",
+      "help"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "sidebar-cta-content"
+    }
+  },
+  {
+    "page": "contact.html",
+    "heading": "Let's Work together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "contact.html",
+    "heading": "Contact Us",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "contact",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-contact-links"
+    }
+  },
+  {
+    "page": "contact.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  },
+  {
+    "page": "contact.html",
+    "type": "duplicate-heading",
+    "key": "contact us",
+    "count": 2
+  },
+  {
+    "page": "enterprise-architecture.html",
+    "heading": "Discover our Services",
+    "imgSrc": "images/icon-hero-benefit-item-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "discover"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "page-category-list wow fadeinup"
+    }
+  },
+  {
+    "page": "enterprise-architecture.html",
+    "heading": "Need a Help",
+    "imgSrc": "images/icon-hero-benefit-item-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "need",
+      "help"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "sidebar-cta-content"
+    }
+  },
+  {
+    "page": "enterprise-architecture.html",
+    "heading": "Scope",
+    "imgSrc": "images/icon-services-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "scope"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solutions-box"
+    }
+  },
+  {
+    "page": "enterprise-architecture.html",
+    "heading": "Capability & Portfolio",
+    "imgSrc": "images/icon-services-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "capability",
+      "portfolio"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solution-item wow fadeinup"
+    }
+  },
+  {
+    "page": "enterprise-architecture.html",
+    "heading": "Standards & Patterns",
+    "imgSrc": "images/icon-services-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "standards",
+      "patterns"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solution-item wow fadeinup"
+    }
+  },
+  {
+    "page": "enterprise-architecture.html",
+    "heading": "Governance that scales",
+    "imgSrc": "images/icon-services-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "governance",
+      "that",
+      "scales"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solution-item wow fadeinup"
+    }
+  },
+  {
+    "page": "enterprise-architecture.html",
+    "heading": "Roadmaps",
+    "imgSrc": "images/icon-services-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "roadmaps"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solution-item wow fadeinup"
+    }
+  },
+  {
+    "page": "enterprise-architecture.html",
+    "heading": "Why Nihume",
+    "imgSrc": "images/icon-services-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "why",
+      "nihume"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-why-choose-box"
+    }
+  },
+  {
+    "page": "enterprise-architecture.html",
+    "heading": "Enablement",
+    "imgSrc": "images/icon-services-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "enablement"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-why-choose-content"
+    }
+  },
+  {
+    "page": "enterprise-architecture.html",
+    "heading": "Clarity",
+    "imgSrc": "images/icon-services-6.svg",
+    "imgAlt": "",
+    "keywords": [
+      "clarity"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-why-choose-content"
+    }
+  },
+  {
+    "page": "enterprise-architecture.html",
+    "heading": "Measured value",
+    "imgSrc": "images/icon-services-2.svg",
+    "imgAlt": "",
+    "keywords": [
+      "measured",
+      "value"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-why-choose-content"
+    }
+  },
+  {
+    "page": "enterprise-architecture.html",
+    "heading": "Let's Work together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "enterprise-architecture.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "Need a Help",
+    "imgSrc": "images/icon-hero-benefit-item-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "need",
+      "help"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "sidebar-cta-content"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "General Questions",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "general",
+      "questions"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "1. What types of IT services do you provide?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "1",
+      "what",
+      "types",
+      "it",
+      "do",
+      "you",
+      "provide"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "2. Can you customize IT solutions for our business?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "2",
+      "can",
+      "you",
+      "customize",
+      "it",
+      "business"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "3. How secure are your IT services?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "3",
+      "how",
+      "secure",
+      "are",
+      "it"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "4. What industries do you work with?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "4",
+      "what",
+      "industries",
+      "do",
+      "you",
+      "work"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "5. How do we get started with your services?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "5",
+      "how",
+      "do",
+      "we",
+      "get",
+      "started"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "Service & Support",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "support",
+      "helpdesk",
+      "service desk",
+      "help desk",
+      "24/7",
+      "24x7",
+      "headset",
+      "call center",
+      "support center"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "1.  Do you provide 24/7 IT support?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "1",
+      "do",
+      "you",
+      "provide",
+      "24/7",
+      "it",
+      "support",
+      "helpdesk",
+      "service desk",
+      "help desk",
+      "24x7",
+      "headset",
+      "call center",
+      "support center"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "2. Can you customize IT solutions for my business?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "2",
+      "can",
+      "you",
+      "customize",
+      "it",
+      "my",
+      "business"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "3. How quickly can your team respond to IT emergencies?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "3",
+      "how",
+      "quickly",
+      "can",
+      "team",
+      "respond",
+      "it",
+      "emergencies"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "4. How fast can you respond to IT emergencies?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "4",
+      "how",
+      "fast",
+      "can",
+      "you",
+      "respond",
+      "it",
+      "emergencies"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "5. Is my data safe during a cloud migration?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "5",
+      "is",
+      "my",
+      "data",
+      "safe",
+      "during",
+      "cloud",
+      "migration",
+      "infrastructure",
+      "aws",
+      "azure",
+      "gcp",
+      "kubernetes",
+      "cluster",
+      "server"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "Cybersecurity & Data Protection",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "cybersecurity",
+      "data",
+      "protection"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "1. How do you ensure the security of my business data?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "1",
+      "how",
+      "do",
+      "you",
+      "ensure",
+      "security",
+      "my",
+      "business",
+      "data",
+      "cyber",
+      "iso",
+      "soc",
+      "compliance",
+      "firewall",
+      "threat",
+      "protection"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "2. Do you help with regulatory compliance like GDPR or HIPAA?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "2",
+      "do",
+      "you",
+      "help",
+      "regulatory",
+      "compliance",
+      "like",
+      "gdpr",
+      "or",
+      "hipaa"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "3. Will your services keep us compliant with regulations?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "3",
+      "will",
+      "keep",
+      "us",
+      "compliant",
+      "regulations"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "4. How do I get started with your services?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "4",
+      "how",
+      "do",
+      "i",
+      "get",
+      "started"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "5. Can we customize the services we need?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "5",
+      "can",
+      "we",
+      "customize",
+      "need"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "Pricing & Engagement",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "pricing",
+      "engagement"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "1. How do you charge for IT consulting services?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "1",
+      "how",
+      "do",
+      "you",
+      "charge",
+      "it",
+      "consulting",
+      "strategy",
+      "roadmap",
+      "advisory",
+      "assessment"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "2. Do you provide a free initial consultation?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "2",
+      "do",
+      "you",
+      "provide",
+      "free",
+      "initial",
+      "consultation"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "3. How do you ensure data security and compliance?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "3",
+      "how",
+      "do",
+      "you",
+      "ensure",
+      "data",
+      "security",
+      "compliance",
+      "cyber",
+      "iso",
+      "soc",
+      "firewall",
+      "threat",
+      "protection"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "4. Can your solutions scale as my business grows?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "4",
+      "can",
+      "scale",
+      "my",
+      "business",
+      "grows"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "5. Do you work with businesses of all sizes?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "5",
+      "do",
+      "you",
+      "work",
+      "businesses",
+      "all",
+      "sizes"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "Technology & Integration",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "technology",
+      "integration"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "1. Can you help us migrate to the cloud?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "1",
+      "can",
+      "you",
+      "help",
+      "us",
+      "migrate",
+      "cloud",
+      "migration",
+      "infrastructure",
+      "aws",
+      "azure",
+      "gcp",
+      "kubernetes",
+      "cluster",
+      "server"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "2. Do you integrate new systems with existing business software?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "2",
+      "do",
+      "you",
+      "integrate",
+      "new",
+      "systems",
+      "existing",
+      "business",
+      "software"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "3. Do you provide a free IT assessment before starting?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "3",
+      "do",
+      "you",
+      "provide",
+      "free",
+      "it",
+      "assessment",
+      "before",
+      "starting"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "4. How do you measure the success of your solutions?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "4",
+      "how",
+      "do",
+      "you",
+      "measure",
+      "success"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "5. Do you offer flexible support hours?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "5",
+      "do",
+      "you",
+      "offer",
+      "flexible",
+      "support",
+      "hours",
+      "helpdesk",
+      "service desk",
+      "help desk",
+      "24/7",
+      "24x7",
+      "headset",
+      "call center",
+      "support center"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "Let's Work together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "Contact Us",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "contact",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-contact-links"
+    }
+  },
+  {
+    "page": "faqs.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  },
+  {
+    "page": "image-gallery.html",
+    "heading": "Let's Work together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "image-gallery.html",
+    "heading": "Contact Us",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "contact",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-contact-links"
+    }
+  },
+  {
+    "page": "image-gallery.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "AI-Powered End-to-End Solutions",
+    "imgSrc": "images/icon-hero-benefit-item-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "ai-powered",
+      "end-to-end"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "hero-benefit-item-content"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "99.9%",
+    "imgSrc": "images/hero-benefit-counter-image-1.png",
+    "imgAlt": "",
+    "keywords": [
+      "99",
+      "9"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "hero-benefit-counter-content"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "500+",
+    "imgSrc": "images/hero-benefit-counter-image-2.png",
+    "imgAlt": "",
+    "keywords": [
+      "500+"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "hero-benefit-counter-content"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Next-Gen Cybersecurity",
+    "imgSrc": "images/icon-hero-benefit-item-2.svg",
+    "imgAlt": "",
+    "keywords": [
+      "next-gen",
+      "cybersecurity"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "hero-benefit-item-content"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "24/7 Intelligent Monitoring",
+    "imgSrc": "images/icon-hero-benefit-item-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "24/7",
+      "intelligent",
+      "monitoring",
+      "alerts",
+      "alerting",
+      "dashboard",
+      "metrics",
+      "observability",
+      "uptime",
+      "24x7"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "hero-benefit-item-content"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Why choose us",
+    "imgSrc": "images/why-choose-image-1.jpg",
+    "imgAlt": "IT team collaborating in modern office",
+    "keywords": [
+      "why",
+      "choose",
+      "us"
+    ],
+    "match": true,
+    "evidence": [
+      "why",
+      "choose"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Why smart businesses choose our expert IT support services",
+    "imgSrc": "images/why-choose-image-1.jpg",
+    "imgAlt": "IT team collaborating in modern office",
+    "keywords": [
+      "why",
+      "smart",
+      "businesses",
+      "choose",
+      "expert",
+      "it",
+      "support",
+      "helpdesk",
+      "service desk",
+      "help desk",
+      "24/7",
+      "24x7",
+      "headset",
+      "call center",
+      "support center"
+    ],
+    "match": true,
+    "evidence": [
+      "why",
+      "choose",
+      "it"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "1K+",
+    "imgSrc": "images/why-choose-image-1.jpg",
+    "imgAlt": "IT team collaborating in modern office",
+    "keywords": [
+      "1k+"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "why-choose-content"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "98%",
+    "imgSrc": "images/icon-why-choose-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "98"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "why-choose-counter-item"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "320",
+    "imgSrc": "images/icon-why-choose-2.svg",
+    "imgAlt": "",
+    "keywords": [
+      "320"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "why-choose-content"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "24/7",
+    "imgSrc": "images/icon-why-choose-2.svg",
+    "imgAlt": "",
+    "keywords": [
+      "24/7",
+      "24x7"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "why-choose-support-title"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Technical Support",
+    "imgSrc": "images/icon-why-choose-2.svg",
+    "imgAlt": "",
+    "keywords": [
+      "technical",
+      "support",
+      "helpdesk",
+      "service desk",
+      "help desk",
+      "24/7",
+      "24x7",
+      "headset",
+      "call center",
+      "support center"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "why-choose-support-title"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "About us",
+    "imgSrc": "images/icon-about-counter-item-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "about",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Discover our journey of empowering businesses through cutting edge IT solutions, expert support, and innovation that drives growth, security, and long term digital transformation success.",
+    "imgSrc": "images/icon-about-counter-item-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "discover",
+      "journey",
+      "empowering",
+      "businesses",
+      "through",
+      "cutting",
+      "edge",
+      "it",
+      "expert",
+      "support",
+      "innovation",
+      "that",
+      "drives",
+      "growth",
+      "security",
+      "long",
+      "term",
+      "digital",
+      "transformation",
+      "success",
+      "helpdesk",
+      "service desk",
+      "help desk",
+      "24/7",
+      "24x7",
+      "headset",
+      "call center",
+      "support center",
+      "cyber",
+      "iso",
+      "soc",
+      "compliance",
+      "firewall",
+      "threat",
+      "protection"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "25+",
+    "imgSrc": "images/icon-about-counter-item-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "25+"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "about-counter-item"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "98%",
+    "imgSrc": "images/icon-about-counter-item-2.svg",
+    "imgAlt": "",
+    "keywords": [
+      "98"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "about-counter-item"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "24/7",
+    "imgSrc": "images/icon-about-counter-item-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "24/7",
+      "24x7"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "about-counter-item"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "99.9%",
+    "imgSrc": "images/icon-about-counter-item-4.svg",
+    "imgAlt": "",
+    "keywords": [
+      "99",
+      "9"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "about-counter-item"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Stopped dragging item",
+    "imgSrc": "images/icon-services-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "stopped",
+      "dragging",
+      "item"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Empowering your growth through expert IT service offerings",
+    "imgSrc": "images/icon-services-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "empowering",
+      "growth",
+      "through",
+      "expert",
+      "it",
+      "offerings"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "IT Consulting",
+    "imgSrc": "images/icon-services-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "it",
+      "consulting",
+      "strategy",
+      "roadmap",
+      "advisory",
+      "assessment"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "services-item-header"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "AI Consulting",
+    "imgSrc": "images/icon-services-2.svg",
+    "imgAlt": "",
+    "keywords": [
+      "ai",
+      "consulting",
+      "strategy",
+      "roadmap",
+      "advisory",
+      "assessment"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "services-item-header"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "CRM Solutions & Customizations",
+    "imgSrc": "images/icon-services-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "crm",
+      "customizations",
+      "customer",
+      "sales",
+      "pipeline",
+      "hubspot",
+      "salesforce"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "services-item-header"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Architect as a Service (AaaS)",
+    "imgSrc": "images/icon-services-4.svg",
+    "imgAlt": "",
+    "keywords": [
+      "architect",
+      "aaas"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "services-item-header wow fadeinup"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "How It Works",
+    "imgSrc": "images/author-1.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "how",
+      "it",
+      "works"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Step-by-step breakdown of our reliable IT service approach",
+    "imgSrc": "images/author-1.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "step-by-step",
+      "breakdown",
+      "reliable",
+      "it",
+      "approach"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "01",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "01"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "how-work-stpe-no"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Discovery & Consultation",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "discovery",
+      "consultation"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "how-work-item-title"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "02",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "02"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "how-work-stpe-no"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Custom Strategy Design",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "custom",
+      "strategy",
+      "design"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "how-work-item-title"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "03",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "03"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "how-work-stpe-no"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Seamless Implementation",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "seamless",
+      "implementation"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "how-work-item-title"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "04",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "04"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "how-work-stpe-no"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Ongoing Support & Optimization",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "ongoing",
+      "support",
+      "optimization",
+      "helpdesk",
+      "service desk",
+      "help desk",
+      "24/7",
+      "24x7",
+      "headset",
+      "call center",
+      "support center"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "how-work-item-title"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "What we do",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "what",
+      "we",
+      "do"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "What we do to empower your business with technology",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "what",
+      "we",
+      "do",
+      "empower",
+      "business",
+      "technology"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "IT Consulting & Strategy",
+    "imgSrc": "images/icon-what-we-item-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "it",
+      "consulting",
+      "strategy",
+      "roadmap",
+      "advisory",
+      "assessment"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "what-we-item-content"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Data Backup & Recovery",
+    "imgSrc": "images/what-we-highlighted-image.jpg",
+    "imgAlt": "Datacenter servers symbolizing secure backups",
+    "keywords": [
+      "data",
+      "backup",
+      "recovery",
+      "backups",
+      "restore",
+      "dr",
+      "disaster",
+      "datacenter",
+      "server",
+      "rack",
+      "storage"
+    ],
+    "match": true,
+    "evidence": [
+      "data",
+      "backup",
+      "backups",
+      "datacenter",
+      "server"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "what-we-highlighted-content"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Cloud Infrastructure & Migration",
+    "imgSrc": "images/icon-what-we-item-2.svg",
+    "imgAlt": "",
+    "keywords": [
+      "cloud",
+      "infrastructure",
+      "migration",
+      "aws",
+      "azure",
+      "gcp",
+      "kubernetes",
+      "cluster",
+      "server"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "what-we-item-content"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Our Features",
+    "imgSrc": "images/why-choose-support-bg.jpg",
+    "imgAlt": "24/7 IT support center with headsets",
+    "keywords": [
+      "features"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Innovative IT features designed to meet your business needs",
+    "imgSrc": "images/why-choose-support-bg.jpg",
+    "imgAlt": "24/7 IT support center with headsets",
+    "keywords": [
+      "innovative",
+      "it",
+      "features",
+      "designed",
+      "meet",
+      "business",
+      "needs"
+    ],
+    "match": true,
+    "evidence": [
+      "it"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "24/7 IT Support",
+    "imgSrc": "images/why-choose-support-bg.jpg",
+    "imgAlt": "24/7 IT support center with headsets",
+    "keywords": [
+      "24/7",
+      "it",
+      "support",
+      "helpdesk",
+      "service desk",
+      "help desk",
+      "24x7",
+      "headset",
+      "call center",
+      "support center"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "feature-item-content"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Cloud Infrastructure & Migration",
+    "imgSrc": "images/feature-image-2.png",
+    "imgAlt": "Cloud infrastructure diagram with servers and cloud icons",
+    "keywords": [
+      "cloud",
+      "infrastructure",
+      "migration",
+      "aws",
+      "azure",
+      "gcp",
+      "kubernetes",
+      "cluster",
+      "server"
+    ],
+    "match": true,
+    "evidence": [
+      "cloud",
+      "infrastructure",
+      "server"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "feature-item-content"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Proactive Monitoring",
+    "imgSrc": "images/feature-image-3.png",
+    "imgAlt": "Real-time monitoring dashboard with alerts",
+    "keywords": [
+      "proactive",
+      "monitoring",
+      "alerts",
+      "alerting",
+      "dashboard",
+      "metrics",
+      "observability",
+      "uptime"
+    ],
+    "match": true,
+    "evidence": [
+      "monitoring",
+      "alerts",
+      "dashboard"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "feature-item-content"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "FAQ's",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "faq",
+      "s"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Answers to common questions about our IT services.",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "answers",
+      "common",
+      "questions",
+      "about",
+      "it"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "1. What types of IT services do you provide?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "1",
+      "what",
+      "types",
+      "it",
+      "do",
+      "you",
+      "provide"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "2. Can you customize IT solutions for our business?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "2",
+      "can",
+      "you",
+      "customize",
+      "it",
+      "business"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "3. How secure are your IT services?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "3",
+      "how",
+      "secure",
+      "are",
+      "it"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "4. What industries do you work with?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "4",
+      "what",
+      "industries",
+      "do",
+      "you",
+      "work"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "5. How do we get started with your services?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "5",
+      "how",
+      "do",
+      "we",
+      "get",
+      "started"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Let's Work Together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Contact Us",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "contact",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-contact-links"
+    }
+  },
+  {
+    "page": "index.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  },
+  {
+    "page": "index.html",
+    "type": "duplicate-heading",
+    "key": "98",
+    "count": 2
+  },
+  {
+    "page": "index.html",
+    "type": "duplicate-heading",
+    "key": "99 9",
+    "count": 2
+  },
+  {
+    "page": "index.html",
+    "type": "duplicate-heading",
+    "key": "24 7",
+    "count": 2
+  },
+  {
+    "page": "index.html",
+    "type": "duplicate-heading",
+    "key": "cloud infrastructure migration",
+    "count": 2
+  },
+  {
+    "page": "partners.html",
+    "heading": "Implementation & Consulting",
+    "imgSrc": "images/icon-services-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "implementation",
+      "consulting",
+      "strategy",
+      "roadmap",
+      "advisory",
+      "assessment"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "partners.html",
+    "heading": "Our trusted partners help deliver world‑class AI, apps and architecture",
+    "imgSrc": "images/icon-services-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "trusted",
+      "partners",
+      "help",
+      "deliver",
+      "world",
+      "class",
+      "ai",
+      "apps",
+      "architecture",
+      "design",
+      "reference",
+      "diagram",
+      "pattern"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "partners.html",
+    "heading": "TecVisio.ai",
+    "imgSrc": "images/icon-services-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "tecvisio",
+      "ai"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "services-item-header"
+    }
+  },
+  {
+    "page": "partners.html",
+    "heading": "Ambigai",
+    "imgSrc": "images/icon-services-2.svg",
+    "imgAlt": "",
+    "keywords": [
+      "ambigai"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "services-item-header"
+    }
+  },
+  {
+    "page": "partners.html",
+    "heading": "IAMTechie",
+    "imgSrc": "images/icon-services-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "iamtechie"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "services-item-header"
+    }
+  },
+  {
+    "page": "partners.html",
+    "heading": "Let's Work Together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "partners.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "Project Information",
+    "imgSrc": "images/icon-hero-benefit-item-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "project",
+      "information"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "page-category-list project-category-list wow fadeinup animated"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "Need a Help",
+    "imgSrc": "images/icon-hero-benefit-item-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "need",
+      "help"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "sidebar-cta-content"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "Our tailored security solutions",
+    "imgSrc": "images/project-solution-img.jpg",
+    "imgAlt": "Server racks in datacenter aisle",
+    "keywords": [
+      "tailored",
+      "security",
+      "cyber",
+      "iso",
+      "soc",
+      "compliance",
+      "firewall",
+      "threat",
+      "protection"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "project-solutions-box"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "How We Transformed FinanceEdge's Cloud Infrastructure into a Highly Secure, Compliant, and Scalable Digital Ecosystem",
+    "imgSrc": "images/icon-blockquote.svg",
+    "imgAlt": "",
+    "keywords": [
+      "how",
+      "we",
+      "transformed",
+      "financeedge",
+      "s",
+      "cloud",
+      "infrastructure",
+      "into",
+      "highly",
+      "secure",
+      "compliant",
+      "scalable",
+      "digital",
+      "ecosystem",
+      "migration",
+      "aws",
+      "azure",
+      "gcp",
+      "kubernetes",
+      "cluster",
+      "server"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "project-solution-content"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "Tailored Results for Your Project",
+    "imgSrc": "images/project-solution-img.jpg",
+    "imgAlt": "Server racks in datacenter aisle",
+    "keywords": [
+      "tailored",
+      "results",
+      "project"
+    ],
+    "match": true,
+    "evidence": [
+      "project"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "project-results-box"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "01",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "01"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "results-step-no"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "Assessment",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "assessment"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "results-step-content"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "02",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "02"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "results-step-no"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "Strategy",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "strategy"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "results-step-content"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "03",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "03"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "results-step-no"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "Framework",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "framework"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "results-step-content"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "04",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "04"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "results-step-no"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "Infrastructure",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "infrastructure"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "results-step-content"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "Solving your most pressing IT problems",
+    "imgSrc": "images/project-solution-img.jpg",
+    "imgAlt": "Server racks in datacenter aisle",
+    "keywords": [
+      "solving",
+      "most",
+      "pressing",
+      "it",
+      "problems"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "project-problems-box"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "Project Challenge",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "project",
+      "challenge"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "problem-item-title"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "Project Solution",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "project"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "problem-item-title"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "Frequently asked question",
+    "imgSrc": "images/project-image-2.jpg",
+    "imgAlt": "High‑availability datacenter project",
+    "keywords": [
+      "frequently",
+      "asked",
+      "question"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "1. What types of IT services do you provide?",
+    "imgSrc": "images/project-image-2.jpg",
+    "imgAlt": "High‑availability datacenter project",
+    "keywords": [
+      "1",
+      "what",
+      "types",
+      "it",
+      "do",
+      "you",
+      "provide"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "2. Can you customize IT solutions for our business?",
+    "imgSrc": "images/project-image-2.jpg",
+    "imgAlt": "High‑availability datacenter project",
+    "keywords": [
+      "2",
+      "can",
+      "you",
+      "customize",
+      "it",
+      "business"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "3. How secure are your IT services?",
+    "imgSrc": "images/project-image-2.jpg",
+    "imgAlt": "High‑availability datacenter project",
+    "keywords": [
+      "3",
+      "how",
+      "secure",
+      "are",
+      "it"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "4. What industries do you work with?",
+    "imgSrc": "images/project-image-2.jpg",
+    "imgAlt": "High‑availability datacenter project",
+    "keywords": [
+      "4",
+      "what",
+      "industries",
+      "do",
+      "you",
+      "work"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "5. How do we get started with your services?",
+    "imgSrc": "images/project-image-2.jpg",
+    "imgAlt": "High‑availability datacenter project",
+    "keywords": [
+      "5",
+      "how",
+      "do",
+      "we",
+      "get",
+      "started"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "Let's Work together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "Contact Us",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "contact",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-contact-links"
+    }
+  },
+  {
+    "page": "project-single.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  },
+  {
+    "page": "projects.html",
+    "heading": "Enterprise Network Security Enhancement",
+    "imgSrc": "images/project-image-1.jpg",
+    "imgAlt": "Cloud migration and automation project",
+    "keywords": [
+      "enterprise",
+      "network",
+      "security",
+      "enhancement",
+      "lan",
+      "wan",
+      "sd-wan",
+      "switch",
+      "router",
+      "cyber",
+      "iso",
+      "soc",
+      "compliance",
+      "firewall",
+      "threat",
+      "protection"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "project-item-content"
+    }
+  },
+  {
+    "page": "projects.html",
+    "heading": "FinanceEdge Cloud Security Optimization",
+    "imgSrc": "images/project-image-2.jpg",
+    "imgAlt": "Data center modernization initiative",
+    "keywords": [
+      "financeedge",
+      "cloud",
+      "security",
+      "optimization",
+      "migration",
+      "infrastructure",
+      "aws",
+      "azure",
+      "gcp",
+      "kubernetes",
+      "cluster",
+      "server",
+      "cyber",
+      "iso",
+      "soc",
+      "compliance",
+      "firewall",
+      "threat",
+      "protection"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "project-item-content"
+    }
+  },
+  {
+    "page": "projects.html",
+    "heading": "EduBridge Online Learning Infrastructure Setup",
+    "imgSrc": "images/project-image-3.jpg",
+    "imgAlt": "DevOps pipeline and CI/CD rollout",
+    "keywords": [
+      "edubridge",
+      "online",
+      "learning",
+      "infrastructure",
+      "setup"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "project-item-content"
+    }
+  },
+  {
+    "page": "projects.html",
+    "heading": "Digital Transformation for a Retail Chain",
+    "imgSrc": "images/project-image-4.jpg",
+    "imgAlt": "Modern engineering workspace",
+    "keywords": [
+      "digital",
+      "transformation",
+      "retail",
+      "chain"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "project-item-content"
+    }
+  },
+  {
+    "page": "projects.html",
+    "heading": "Enterpriseâ€‘Wide Cybersecurity Upgrade",
+    "imgSrc": "images/project-image-5.jpg",
+    "imgAlt": "Cybersecurity assessment and hardening",
+    "keywords": [
+      "enterprise",
+      "wide",
+      "cybersecurity",
+      "upgrade"
+    ],
+    "match": true,
+    "evidence": [
+      "cybersecurity"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "project-item-content"
+    }
+  },
+  {
+    "page": "projects.html",
+    "heading": "Cloud Migration for Healthcare Provider",
+    "imgSrc": "images/project-image-6.jpg",
+    "imgAlt": "Product engineering sprint delivery",
+    "keywords": [
+      "cloud",
+      "migration",
+      "healthcare",
+      "provider",
+      "infrastructure",
+      "aws",
+      "azure",
+      "gcp",
+      "kubernetes",
+      "cluster",
+      "server"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "project-item-content"
+    }
+  },
+  {
+    "page": "projects.html",
+    "heading": "Let's Work together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "projects.html",
+    "heading": "Contact Us",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "contact",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-contact-links"
+    }
+  },
+  {
+    "page": "projects.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  },
+  {
+    "page": "radio-software-crm-implementation.html",
+    "heading": "Discover our Services",
+    "imgSrc": "images/icon-hero-benefit-item-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "discover"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "page-category-list wow fadeinup"
+    }
+  },
+  {
+    "page": "radio-software-crm-implementation.html",
+    "heading": "Need a Help",
+    "imgSrc": "images/icon-hero-benefit-item-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "need",
+      "help"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "sidebar-cta-content"
+    }
+  },
+  {
+    "page": "radio-software-crm-implementation.html",
+    "heading": "What's included",
+    "imgSrc": "images/icon-services-8.svg",
+    "imgAlt": "",
+    "keywords": [
+      "what",
+      "s",
+      "included"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solutions-box"
+    }
+  },
+  {
+    "page": "radio-software-crm-implementation.html",
+    "heading": "Studio & Playout",
+    "imgSrc": "images/icon-services-8.svg",
+    "imgAlt": "",
+    "keywords": [
+      "studio",
+      "playout"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solution-item wow fadeinup"
+    }
+  },
+  {
+    "page": "radio-software-crm-implementation.html",
+    "heading": "Traffic & Ad‑sales",
+    "imgSrc": "images/icon-services-8.svg",
+    "imgAlt": "",
+    "keywords": [
+      "traffic",
+      "ad",
+      "sales"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solution-item wow fadeinup"
+    }
+  },
+  {
+    "page": "radio-software-crm-implementation.html",
+    "heading": "CRM Integration",
+    "imgSrc": "images/icon-services-8.svg",
+    "imgAlt": "",
+    "keywords": [
+      "crm",
+      "integration",
+      "customer",
+      "sales",
+      "pipeline",
+      "hubspot",
+      "salesforce"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solution-item wow fadeinup"
+    }
+  },
+  {
+    "page": "radio-software-crm-implementation.html",
+    "heading": "APIs & Reporting",
+    "imgSrc": "images/icon-services-8.svg",
+    "imgAlt": "",
+    "keywords": [
+      "apis",
+      "reporting"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solution-item wow fadeinup"
+    }
+  },
+  {
+    "page": "radio-software-crm-implementation.html",
+    "heading": "Why Nihume",
+    "imgSrc": "images/icon-services-8.svg",
+    "imgAlt": "",
+    "keywords": [
+      "why",
+      "nihume"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-why-choose-box"
+    }
+  },
+  {
+    "page": "radio-software-crm-implementation.html",
+    "heading": "Domain know‑how",
+    "imgSrc": "images/icon-services-8.svg",
+    "imgAlt": "",
+    "keywords": [
+      "domain",
+      "know",
+      "how"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-why-choose-content"
+    }
+  },
+  {
+    "page": "radio-software-crm-implementation.html",
+    "heading": "Seamless integrations",
+    "imgSrc": "images/icon-services-5.svg",
+    "imgAlt": "",
+    "keywords": [
+      "seamless",
+      "integrations"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-why-choose-content"
+    }
+  },
+  {
+    "page": "radio-software-crm-implementation.html",
+    "heading": "Change management",
+    "imgSrc": "images/icon-services-2.svg",
+    "imgAlt": "",
+    "keywords": [
+      "change",
+      "management"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-why-choose-content"
+    }
+  },
+  {
+    "page": "radio-software-crm-implementation.html",
+    "heading": "Let's Work together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "radio-software-crm-implementation.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  },
+  {
+    "page": "service-single.html",
+    "heading": "Discover our Services",
+    "imgSrc": "images/icon-hero-benefit-item-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "discover"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "page-category-list wow fadeinup animated"
+    }
+  },
+  {
+    "page": "service-single.html",
+    "heading": "Need a Help",
+    "imgSrc": "images/icon-hero-benefit-item-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "need",
+      "help"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "sidebar-cta-content"
+    }
+  },
+  {
+    "page": "service-single.html",
+    "heading": "Future-ready IT solutions",
+    "imgSrc": "images/service-why-choose-img.jpg",
+    "imgAlt": "Secure cloud infrastructure and integration",
+    "keywords": [
+      "future-ready",
+      "it"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solutions-box"
+    }
+  },
+  {
+    "page": "service-single.html",
+    "heading": "Tailored IT Solutions",
+    "imgSrc": "images/service-why-choose-img.jpg",
+    "imgAlt": "Secure cloud infrastructure and integration",
+    "keywords": [
+      "tailored",
+      "it"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solution-item wow fadeinup"
+    }
+  },
+  {
+    "page": "service-single.html",
+    "heading": "Enterprise-Grade Security",
+    "imgSrc": "images/service-why-choose-img.jpg",
+    "imgAlt": "Secure cloud infrastructure and integration",
+    "keywords": [
+      "enterprise-grade",
+      "security",
+      "cyber",
+      "iso",
+      "soc",
+      "compliance",
+      "firewall",
+      "threat",
+      "protection"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solution-item wow fadeinup"
+    }
+  },
+  {
+    "page": "service-single.html",
+    "heading": "Process Automation",
+    "imgSrc": "images/service-why-choose-img.jpg",
+    "imgAlt": "Secure cloud infrastructure and integration",
+    "keywords": [
+      "process",
+      "automation"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solution-item wow fadeinup"
+    }
+  },
+  {
+    "page": "service-single.html",
+    "heading": "Data Analytics & Insights",
+    "imgSrc": "images/service-why-choose-img.jpg",
+    "imgAlt": "Secure cloud infrastructure and integration",
+    "keywords": [
+      "data",
+      "analytics",
+      "insights"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-solution-item wow fadeinup"
+    }
+  },
+  {
+    "page": "service-single.html",
+    "heading": "Why choose our services ?",
+    "imgSrc": "images/service-why-choose-img.jpg",
+    "imgAlt": "Secure cloud infrastructure and integration",
+    "keywords": [
+      "why",
+      "choose"
+    ],
+    "match": true,
+    "evidence": [
+      "why",
+      "choose"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-why-choose-box"
+    }
+  },
+  {
+    "page": "service-single.html",
+    "heading": "Our benefits",
+    "imgSrc": "images/service-benefit-img.jpg",
+    "imgAlt": "Abstract network connections and nodes",
+    "keywords": [
+      "benefits"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "service-benefit-box"
+    }
+  },
+  {
+    "page": "service-single.html",
+    "heading": "(01) Complex IT Management",
+    "imgSrc": "images/service-benefit-img.jpg",
+    "imgAlt": "Abstract network connections and nodes",
+    "keywords": [
+      "01",
+      "complex",
+      "it",
+      "management"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "service-benefit-item"
+    }
+  },
+  {
+    "page": "service-single.html",
+    "heading": "(02) Increased Operational Efficiency",
+    "imgSrc": "images/service-benefit-img.jpg",
+    "imgAlt": "Abstract network connections and nodes",
+    "keywords": [
+      "02",
+      "increased",
+      "operational",
+      "efficiency"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "service-benefit-item"
+    }
+  },
+  {
+    "page": "service-single.html",
+    "heading": "Frequently asked question",
+    "imgSrc": "images/service-single-img.jpg",
+    "imgAlt": "Modern engineering workspace",
+    "keywords": [
+      "frequently",
+      "asked",
+      "question"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "service-single.html",
+    "heading": "1. What types of IT services do you provide?",
+    "imgSrc": "images/service-single-img.jpg",
+    "imgAlt": "Modern engineering workspace",
+    "keywords": [
+      "1",
+      "what",
+      "types",
+      "it",
+      "do",
+      "you",
+      "provide"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "service-single.html",
+    "heading": "2. Can you customize IT solutions for our business?",
+    "imgSrc": "images/service-single-img.jpg",
+    "imgAlt": "Modern engineering workspace",
+    "keywords": [
+      "2",
+      "can",
+      "you",
+      "customize",
+      "it",
+      "business"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "service-single.html",
+    "heading": "3. How secure are your IT services?",
+    "imgSrc": "images/service-single-img.jpg",
+    "imgAlt": "Modern engineering workspace",
+    "keywords": [
+      "3",
+      "how",
+      "secure",
+      "are",
+      "it"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "service-single.html",
+    "heading": "4. What industries do you work with?",
+    "imgSrc": "images/service-single-img.jpg",
+    "imgAlt": "Modern engineering workspace",
+    "keywords": [
+      "4",
+      "what",
+      "industries",
+      "do",
+      "you",
+      "work"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "service-single.html",
+    "heading": "5. How do we get started with your services?",
+    "imgSrc": "images/service-single-img.jpg",
+    "imgAlt": "Modern engineering workspace",
+    "keywords": [
+      "5",
+      "how",
+      "do",
+      "we",
+      "get",
+      "started"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "service-single.html",
+    "heading": "Let's Work together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "service-single.html",
+    "heading": "Contact Us",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "contact",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-contact-links"
+    }
+  },
+  {
+    "page": "service-single.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "IT Consulting",
+    "imgSrc": "images/icon-services-1.svg",
+    "imgAlt": "IT consulting icon",
+    "keywords": [
+      "it",
+      "consulting",
+      "strategy",
+      "roadmap",
+      "advisory",
+      "assessment"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "services-item-header"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "AI Consulting",
+    "imgSrc": "images/icon-services-2.svg",
+    "imgAlt": "AI consulting icon",
+    "keywords": [
+      "ai",
+      "consulting",
+      "strategy",
+      "roadmap",
+      "advisory",
+      "assessment"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "services-item-header"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "CRM Solutions & Customizations",
+    "imgSrc": "images/icon-services-3.svg",
+    "imgAlt": "CRM solutions icon",
+    "keywords": [
+      "crm",
+      "customizations",
+      "customer",
+      "sales",
+      "pipeline",
+      "hubspot",
+      "salesforce"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "services-item-header"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "Architect as a Service (AaaS)",
+    "imgSrc": "images/icon-services-4.svg",
+    "imgAlt": "Architecture as a Service icon",
+    "keywords": [
+      "architect",
+      "aaas"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "services-item-header"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "How It Works",
+    "imgSrc": "images/author-1.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "how",
+      "it",
+      "works"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "Step-by-step breakdown of our reliable IT service approach",
+    "imgSrc": "images/author-1.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "step-by-step",
+      "breakdown",
+      "reliable",
+      "it",
+      "approach"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "01",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "01"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "how-work-stpe-no"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "Discovery & Consultation",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "discovery",
+      "consultation"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "how-work-item-title"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "02",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "02"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "how-work-stpe-no"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "Custom Strategy Design",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "custom",
+      "strategy",
+      "design"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "how-work-item-title"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "03",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "03"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "how-work-stpe-no"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "Seamless Implementation",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "seamless",
+      "implementation"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "how-work-item-title"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "04",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "04"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "how-work-stpe-no"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "Ongoing Support & Optimization",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "ongoing",
+      "support",
+      "optimization",
+      "helpdesk",
+      "service desk",
+      "help desk",
+      "24/7",
+      "24x7",
+      "headset",
+      "call center",
+      "support center"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "how-work-item-title"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "Our Features",
+    "imgSrc": "images/why-choose-support-bg.jpg",
+    "imgAlt": "24/7 IT support center with headsets",
+    "keywords": [
+      "features"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "Innovative IT features designed to meet your business needs",
+    "imgSrc": "images/why-choose-support-bg.jpg",
+    "imgAlt": "24/7 IT support center with headsets",
+    "keywords": [
+      "innovative",
+      "it",
+      "features",
+      "designed",
+      "meet",
+      "business",
+      "needs"
+    ],
+    "match": true,
+    "evidence": [
+      "it"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "24/7 IT Support",
+    "imgSrc": "images/why-choose-support-bg.jpg",
+    "imgAlt": "24/7 IT support center with headsets",
+    "keywords": [
+      "24/7",
+      "it",
+      "support",
+      "helpdesk",
+      "service desk",
+      "help desk",
+      "24x7",
+      "headset",
+      "call center",
+      "support center"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "feature-item-content"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "Cloud Infrastructure & Migration",
+    "imgSrc": "images/feature-image-2.png",
+    "imgAlt": "Cloud infrastructure diagram with servers and cloud icons",
+    "keywords": [
+      "cloud",
+      "infrastructure",
+      "migration",
+      "aws",
+      "azure",
+      "gcp",
+      "kubernetes",
+      "cluster",
+      "server"
+    ],
+    "match": true,
+    "evidence": [
+      "cloud",
+      "infrastructure",
+      "server"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "feature-item-content"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "Proactive Monitoring",
+    "imgSrc": "images/feature-image-3.png",
+    "imgAlt": "Real-time monitoring dashboard with alerts",
+    "keywords": [
+      "proactive",
+      "monitoring",
+      "alerts",
+      "alerting",
+      "dashboard",
+      "metrics",
+      "observability",
+      "uptime"
+    ],
+    "match": true,
+    "evidence": [
+      "monitoring",
+      "alerts",
+      "dashboard"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "feature-item-content"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "Our Testimonials",
+    "imgSrc": "images/author-1.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "testimonials"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "Client testimonials that showcase our commitment to excellence in IT services",
+    "imgSrc": "images/author-1.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "client",
+      "testimonials",
+      "that",
+      "showcase",
+      "commitment",
+      "excellence",
+      "it"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "Darlene Robertson",
+    "imgSrc": "images/author-1.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "darlene",
+      "robertson"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "author-content"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "Daniel Johnson",
+    "imgSrc": "images/author-2.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "daniel",
+      "johnson"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "author-content"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "Marsh drary",
+    "imgSrc": "images/author-3.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "marsh",
+      "drary"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "author-content"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "Ethan Miller",
+    "imgSrc": "images/author-4.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "ethan",
+      "miller"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "author-content"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "FAQ's",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "faq",
+      "s"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "Answers to common questions about our IT services.",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "answers",
+      "common",
+      "questions",
+      "about",
+      "it"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "1. What types of IT services do you provide?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "1",
+      "what",
+      "types",
+      "it",
+      "do",
+      "you",
+      "provide"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "2. Can you customize IT solutions for our business?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "2",
+      "can",
+      "you",
+      "customize",
+      "it",
+      "business"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "3. How secure are your IT services?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "3",
+      "how",
+      "secure",
+      "are",
+      "it"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "4. What industries do you work with?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "4",
+      "what",
+      "industries",
+      "do",
+      "you",
+      "work"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "5. How do we get started with your services?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "5",
+      "how",
+      "do",
+      "we",
+      "get",
+      "started"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "Let's Work together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "Contact Us",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "contact",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-contact-links"
+    }
+  },
+  {
+    "page": "services.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  },
+  {
+    "page": "team-single.html",
+    "heading": "Need a Help",
+    "imgSrc": "images/icon-hero-benefit-item-3.svg",
+    "imgAlt": "",
+    "keywords": [
+      "need",
+      "help"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "sidebar-cta-content"
+    }
+  },
+  {
+    "page": "team-single.html",
+    "heading": "Head of Cybersecurity",
+    "imgSrc": "images/icon-phone-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "head",
+      "cybersecurity"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "team-single.html",
+    "heading": "About Me",
+    "imgSrc": "images/icon-phone-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "about",
+      "me"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "team-single.html",
+    "heading": "Phone Number",
+    "imgSrc": "images/icon-phone-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "phone",
+      "number"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "team-contact-content"
+    }
+  },
+  {
+    "page": "team-single.html",
+    "heading": "Email Address",
+    "imgSrc": "images/icon-mail-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "email",
+      "address"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "team-contact-content"
+    }
+  },
+  {
+    "page": "team-single.html",
+    "heading": "Location",
+    "imgSrc": "images/icon-location-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "location"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "team-contact-content"
+    }
+  },
+  {
+    "page": "team-single.html",
+    "heading": "Personal biography",
+    "imgSrc": "images/icon-phone-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "personal",
+      "biography"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "team-single.html",
+    "heading": "250+",
+    "imgSrc": "images/icon-phone-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "250+"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": true,
+      "isMetric": true,
+      "containerClass": "member-bio-counter-item"
+    }
+  },
+  {
+    "page": "team-single.html",
+    "heading": "99.9%",
+    "imgSrc": "images/icon-phone-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "99",
+      "9"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": true,
+      "isMetric": true,
+      "containerClass": "member-bio-counter-item"
+    }
+  },
+  {
+    "page": "team-single.html",
+    "heading": "70%",
+    "imgSrc": "images/icon-phone-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "70"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": true,
+      "isMetric": true,
+      "containerClass": "member-bio-counter-item"
+    }
+  },
+  {
+    "page": "team-single.html",
+    "heading": "150+",
+    "imgSrc": "images/icon-phone-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "150+"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": true,
+      "isMetric": true,
+      "containerClass": "member-bio-counter-item"
+    }
+  },
+  {
+    "page": "team-single.html",
+    "heading": "Working skills",
+    "imgSrc": "images/icon-phone-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "working",
+      "skills"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "team-single.html",
+    "heading": "Get in touch with us",
+    "imgSrc": "images/icon-phone-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "get",
+      "touch",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "team-single.html",
+    "heading": "Let's Work together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "team-single.html",
+    "heading": "Contact Us",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "contact",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-contact-links"
+    }
+  },
+  {
+    "page": "team-single.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  },
+  {
+    "page": "team.html",
+    "heading": "Alex Johnson",
+    "imgSrc": "images/team-1.jpg",
+    "imgAlt": "Team member portrait",
+    "keywords": [
+      "alex",
+      "johnson"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "team-content"
+    }
+  },
+  {
+    "page": "team.html",
+    "heading": "Jordan Martinez",
+    "imgSrc": "images/team-2.jpg",
+    "imgAlt": "Team member portrait",
+    "keywords": [
+      "jordan",
+      "martinez"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "team-content"
+    }
+  },
+  {
+    "page": "team.html",
+    "heading": "Taylor Anderson",
+    "imgSrc": "images/team-3.jpg",
+    "imgAlt": "Team member portrait",
+    "keywords": [
+      "taylor",
+      "anderson"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "team-content"
+    }
+  },
+  {
+    "page": "team.html",
+    "heading": "Casey Thompson",
+    "imgSrc": "images/team-4.jpg",
+    "imgAlt": "Team member portrait",
+    "keywords": [
+      "casey",
+      "thompson"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "team-content"
+    }
+  },
+  {
+    "page": "team.html",
+    "heading": "Morgan Walker",
+    "imgSrc": "images/team-5.jpg",
+    "imgAlt": "Team member portrait",
+    "keywords": [
+      "morgan",
+      "walker"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "team-content"
+    }
+  },
+  {
+    "page": "team.html",
+    "heading": "Riley Thompson",
+    "imgSrc": "images/team-6.jpg",
+    "imgAlt": "Team member portrait",
+    "keywords": [
+      "riley",
+      "thompson"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "team-content"
+    }
+  },
+  {
+    "page": "team.html",
+    "heading": "Cameron Johnson",
+    "imgSrc": "images/team-7.jpg",
+    "imgAlt": "Team member portrait",
+    "keywords": [
+      "cameron",
+      "johnson"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "team-content"
+    }
+  },
+  {
+    "page": "team.html",
+    "heading": "Quinn Parker",
+    "imgSrc": "images/team-8.jpg",
+    "imgAlt": "Team member portrait",
+    "keywords": [
+      "quinn",
+      "parker"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "team-content"
+    }
+  },
+  {
+    "page": "team.html",
+    "heading": "Let's Work together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "team.html",
+    "heading": "Contact Us",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "contact",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-contact-links"
+    }
+  },
+  {
+    "page": "team.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "drary Mehta",
+    "imgSrc": "images/author-1.jpg",
+    "imgAlt": "Author portrait",
+    "keywords": [
+      "drary",
+      "mehta"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "author-content"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Daniel Johnson",
+    "imgSrc": "images/author-2.jpg",
+    "imgAlt": "Author portrait",
+    "keywords": [
+      "daniel",
+      "johnson"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "author-content"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Darlene Robertson",
+    "imgSrc": "images/author-3.jpg",
+    "imgAlt": "Author portrait",
+    "keywords": [
+      "darlene",
+      "robertson"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "author-content"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Wade Warren",
+    "imgSrc": "images/author-4.jpg",
+    "imgAlt": "Author portrait",
+    "keywords": [
+      "wade",
+      "warren"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "author-content"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Ralph Edwards",
+    "imgSrc": "images/author-5.jpg",
+    "imgAlt": "Author portrait",
+    "keywords": [
+      "ralph",
+      "edwards"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "author-content"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Marvin McKinney",
+    "imgSrc": "images/author-6.jpg",
+    "imgAlt": "Author portrait",
+    "keywords": [
+      "marvin",
+      "mckinney"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": true,
+      "isMetric": false,
+      "containerClass": "author-content"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "How It Works",
+    "imgSrc": "images/author-1.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "how",
+      "it",
+      "works"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Step-by-step breakdown of our reliable IT service approach",
+    "imgSrc": "images/author-1.jpg",
+    "imgAlt": "",
+    "keywords": [
+      "step-by-step",
+      "breakdown",
+      "reliable",
+      "it",
+      "approach"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "01",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "01"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "how-work-stpe-no"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Discovery & Consultation",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "discovery",
+      "consultation"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "how-work-item-title"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "02",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "02"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "how-work-stpe-no"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Custom Strategy Design",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "custom",
+      "strategy",
+      "design"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "how-work-item-title"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "03",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "03"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "how-work-stpe-no"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Seamless Implementation",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "seamless",
+      "implementation"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "how-work-item-title"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "04",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "04"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "how-work-stpe-no"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Ongoing Support & Optimization",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "ongoing",
+      "support",
+      "optimization",
+      "helpdesk",
+      "service desk",
+      "help desk",
+      "24/7",
+      "24x7",
+      "headset",
+      "call center",
+      "support center"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "how-work-item-title"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "What we do",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "what",
+      "we",
+      "do"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "What we do to empower your business with technology",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "what",
+      "we",
+      "do",
+      "empower",
+      "business",
+      "technology"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "IT Consulting & Strategy",
+    "imgSrc": "images/icon-what-we-item-1.svg",
+    "imgAlt": "",
+    "keywords": [
+      "it",
+      "consulting",
+      "strategy",
+      "roadmap",
+      "advisory",
+      "assessment"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "what-we-item-content"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Data Backup & Recovery",
+    "imgSrc": "images/what-we-highlighted-image.jpg",
+    "imgAlt": "Datacenter servers symbolizing secure backups",
+    "keywords": [
+      "data",
+      "backup",
+      "recovery",
+      "backups",
+      "restore",
+      "dr",
+      "disaster",
+      "datacenter",
+      "server",
+      "rack",
+      "storage"
+    ],
+    "match": true,
+    "evidence": [
+      "data",
+      "backup",
+      "backups",
+      "datacenter",
+      "server"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "what-we-highlighted-content"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Cloud Infrastructure & Migration",
+    "imgSrc": "images/icon-what-we-item-2.svg",
+    "imgAlt": "",
+    "keywords": [
+      "cloud",
+      "infrastructure",
+      "migration",
+      "aws",
+      "azure",
+      "gcp",
+      "kubernetes",
+      "cluster",
+      "server"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "what-we-item-content"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Our Expertise",
+    "imgSrc": "images/expertise-image-1.png",
+    "imgAlt": "Developer writing code on multiple monitors",
+    "keywords": [
+      "expertise"
+    ],
+    "match": true,
+    "evidence": [
+      "expertise"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Transforming technology challenges into growth opportunities",
+    "imgSrc": "images/expertise-image-1.png",
+    "imgAlt": "Developer writing code on multiple monitors",
+    "keywords": [
+      "transforming",
+      "technology",
+      "challenges",
+      "into",
+      "growth",
+      "opportunities"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title section-title-center"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Reliable IT Solutions",
+    "imgSrc": "images/expertise-image-1.png",
+    "imgAlt": "Developer writing code on multiple monitors",
+    "keywords": [
+      "reliable",
+      "it"
+    ],
+    "match": true,
+    "evidence": [
+      "it"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "expertise-item-content"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Cloud Infrastructure & Migration",
+    "imgSrc": "images/expertise-image-2.png",
+    "imgAlt": "Cloud infrastructure and server racks",
+    "keywords": [
+      "cloud",
+      "infrastructure",
+      "migration",
+      "aws",
+      "azure",
+      "gcp",
+      "kubernetes",
+      "cluster",
+      "server"
+    ],
+    "match": true,
+    "evidence": [
+      "cloud",
+      "infrastructure",
+      "server"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "expertise-item-content"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Scalable as You Grow",
+    "imgSrc": "images/expertise-image-3.png",
+    "imgAlt": "City network lines symbolizing scalability",
+    "keywords": [
+      "scalable",
+      "you",
+      "grow"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "expertise-item-content"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Reliable IT Solutions",
+    "imgSrc": "images/expertise-image-1.png",
+    "imgAlt": "Developer writing code on multiple monitors",
+    "keywords": [
+      "reliable",
+      "it"
+    ],
+    "match": true,
+    "evidence": [
+      "it"
+    ],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "expertise-item-content"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Real-Time Collaboration",
+    "imgSrc": "images/expertise-image-4.png",
+    "imgAlt": "Datacenter corridor, reliable operations",
+    "keywords": [
+      "real-time",
+      "collaboration"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "expertise-item-content"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "FAQ's",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "faq",
+      "s"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Answers to common questions about our IT services.",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "answers",
+      "common",
+      "questions",
+      "about",
+      "it"
+    ],
+    "match": false,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "section-title"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "1. What types of IT services do you provide?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "1",
+      "what",
+      "types",
+      "it",
+      "do",
+      "you",
+      "provide"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "2. Can you customize IT solutions for our business?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "2",
+      "can",
+      "you",
+      "customize",
+      "it",
+      "business"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "3. How secure are your IT services?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "3",
+      "how",
+      "secure",
+      "are",
+      "it"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "4. What industries do you work with?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "4",
+      "what",
+      "industries",
+      "do",
+      "you",
+      "work"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "5. How do we get started with your services?",
+    "imgSrc": "",
+    "imgAlt": "",
+    "keywords": [
+      "5",
+      "how",
+      "do",
+      "we",
+      "get",
+      "started"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": false,
+      "isPerson": false,
+      "isMetric": true,
+      "containerClass": "accordion-item wow fadeinup"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Let's Work together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Contact Us",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "contact",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-contact-links"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  },
+  {
+    "page": "testimonials.html",
+    "type": "duplicate-heading",
+    "key": "cloud infrastructure migration",
+    "count": 2
+  },
+  {
+    "page": "testimonials.html",
+    "type": "duplicate-heading",
+    "key": "reliable it solutions",
+    "count": 2
+  },
+  {
+    "page": "video-gallery.html",
+    "heading": "Let's Work together",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "let",
+      "s",
+      "work",
+      "together"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-header-title"
+    }
+  },
+  {
+    "page": "video-gallery.html",
+    "heading": "Contact Us",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "contact",
+      "us"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-contact-links"
+    }
+  },
+  {
+    "page": "video-gallery.html",
+    "heading": "Subscribe Newsletter's",
+    "imgSrc": "images/arrow-white.svg",
+    "imgAlt": "",
+    "keywords": [
+      "subscribe",
+      "newsletter",
+      "s"
+    ],
+    "match": true,
+    "evidence": [],
+    "hints": {
+      "isDecorative": true,
+      "isPerson": false,
+      "isMetric": false,
+      "containerClass": "footer-links footer-privacy-policy"
+    }
+  }
+]
