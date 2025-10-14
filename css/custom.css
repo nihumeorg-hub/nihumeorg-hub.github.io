@@ -2164,63 +2164,9 @@ header.main-header .navbar-brand img{
 	margin: 0;
 }
 
-/************************************/
-/***   14. Scrolling Ticker css	  ***/
-/************************************/
-
-.our-scrolling-ticker{
-	margin-bottom: 100px;
-}
-
-.scrolling-ticker-box{
-	--gap: 30px;
-	display: flex;
-	overflow: hidden;
-	user-select: none;
-	gap: var(--gap);
-	align-items: center;
-}
-
-.scrolling-ticker-box .scrolling-content{
-	flex-shrink: 0;
-	display: flex;
-	gap: var(--gap);
-	min-width: 100%;
-	animation: scroll 60s linear infinite;
-}
-
-@keyframes scroll{
-	from{
-		transform: translateX(0);
-	}
-
-	to{
-		transform: translateX(calc(-100% - var(--gap)));
-	}
-}
-
-.scrolling-ticker-box:hover .scrolling-content{
-	animation-play-state: paused;
-}
-
-.scrolling-ticker-box .scrolling-content span{
-    display: flex;
-    align-items: center;
-    text-transform: capitalize;
-    font-size: 90px;
-    line-height: 1.2em;
-    font-weight: 700;
-    color: var(--white-color);
-    background: var(--divider-color);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-stroke: 2px transparent;
-}
-
-.scrolling-ticker-box .scrolling-content span img{
-	width: 40px;
-	margin-right: 30px;
-}
+/***   14. Scrolling Ticker css — removed (unused)  ***/
+/* The scrolling ticker components were removed from HTML. 
+   Former styles and keyframes are pruned to reduce CSS size. */
 
 /************************************/
 /***   		15. CTA Box css		  ***/
@@ -2968,43 +2914,7 @@ header.main-header .navbar-brand img{
 	margin-right: -40px;
 }
 
-.expertise-list .scrolling-ticker-item{
-	margin-bottom: 30px;
-}
-
-.expertise-list .scrolling-ticker-item:last-child{
-	margin-bottom: 0;
-}
-
-.expertise-list .scrolling-ticker-item .scrolling-ticker-box{
-	--gap: 20px;
-}
-
-.expertise-list .scrolling-ticker-box .scrolling-content span{
-	position: relative;
-	font-size: 16px;
-	font-weight: 400;
-	background: var(--dark-divider-color);
-	border: 1px solid var(--dark-divider-color);
-	padding: 11px 24px 11px 42px;
-	border-radius: 100px;
-}
-
-.expertise-list .scrolling-content span::before{
-	content: '';
-	position: absolute;
-	left: 24px;
-	top: 50%;
-	transform: translateY(-50%);
-	background: var(--accent-color);
-	border-radius: 50%;
-	width: 8px;
-	height: 8px;
-}
-
-.scrolling-ticker-item.scroll-reverse .scrolling-content{
-	animation-direction: reverse;
-}
+/* Expertise list tickers removed */
 
 .expertise-item.box-5 .expertise-item-content{
 	width: calc(100% - 310px);
@@ -4640,9 +4550,7 @@ header.main-header .navbar-brand img{
 		margin-bottom: 40px;
 	}
 
-	.scrolling-ticker-box .scrolling-content span{
-		font-size: 70px;
-	}
+
 
 	.footer-contact-box{
 		gap: 50px;
@@ -5437,22 +5345,7 @@ header.main-header .navbar-brand img{
 		padding: 15px 20px;
 	}
 
-	.our-scrolling-ticker{
-		margin-bottom: 50px;
-	}
 
-	.scrolling-ticker-box{
-		--gap: 20px
-	}
-
-	.scrolling-ticker-box .scrolling-content span{
-		font-size: 50px;
-	}
-
-	.scrolling-ticker-box .scrolling-content span img{
-		width: 30px;
-		margin-right: 20px;
-	}
 
 	.cta-box{
 		padding: 50px 0;
@@ -5609,19 +5502,7 @@ header.main-header .navbar-brand img{
 		margin: 0 -20px;
 	}
 
-	.expertise-list .scrolling-ticker-item{
-		margin-bottom: 20px;
-	}
 
-	.expertise-list .scrolling-ticker-box .scrolling-content span{
-		padding: 8px 16px 8px 32px;
-	}
-
-	.expertise-list .scrolling-ticker-box .scrolling-content span::before{
-		width: 6px;
-		height: 6px;
-		left: 16px;
-	}
 
 	.expertise-item.box-5 .expertise-item-content{
 		width: calc(100% - 220px);
@@ -6077,13 +5958,7 @@ header.main-header .navbar-brand img{
 		font-size: 14px;
 	}
 
-	.scrolling-ticker-box .scrolling-content span{
-        font-size: 30px;
-    }
 
-	.scrolling-ticker-box .scrolling-content span img{
-		width: 20px;
-	}
 
 	.cta-box-body{
 		padding: 20px;
@@ -6218,9 +6093,7 @@ header.main-header .navbar-brand img{
 		font-size: 18px;
 	}
 
-	.expertise-list .scrolling-ticker-item{
-		margin-bottom: 15px;
-	}
+
 
 	.expertise-item.box-5 .expertise-item-content{
 		width: 100%;
