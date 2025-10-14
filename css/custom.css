@@ -2204,13 +2204,13 @@ header.main-header .navbar-brand img{
 }
 
 .scrolling-ticker-box .scrolling-content span{
-	display: flex;
-	align-items: center;
-	text-transform: capitalize;
-	font-size: 90px;
-	line-height: 1.2em;
-	font-weight: 700;
-	color: var(--white-color);
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    font-size: 90px;
+    line-height: 1.2em;
+    font-weight: 700;
+    color: var(--white-color);
     background: var(--divider-color);
     background-clip: text;
     -webkit-background-clip: text;
