@@ -1486,15 +1486,16 @@ header.main-header .navbar-brand img{
 }
 
 .why-choose-support{
-	background: url('../images/why-choose-support-bg.jpg') no-repeat;
-	background-position: center center;
-	background-size: cover;
-	border-radius: 30px;
-	display: flex;
-	flex-wrap: wrap;
-	align-items: center;
-	gap: 20px;
-	padding: 50px;
+    /* Swap to real photo with subtle dark overlay for readability */
+    background: linear-gradient(rgba(7,10,20,0.55), rgba(7,10,20,0.55)), url('../images/support-24x7.jpg') no-repeat;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+    padding: 50px;
 }
 
 .why-choose-support-content,
