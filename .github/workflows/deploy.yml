@@ -1,0 +1,60 @@
+name: Deploy to S3 + CloudFront
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+# Required for GitHub OIDC → AWS
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      # Configure these in GitHub → Settings → Secrets and variables → Actions → Variables
+      # AWS_ROLE_ARN: arn:aws:iam::<ACCOUNT_ID>:role/<ROLE_NAME>
+      # AWS_REGION: e.g., us-east-1
+      # S3_BUCKET: e.g., site-www-nihume-com
+      # CF_DISTRIBUTION_ID: e.g., E123456ABCDEFG
+      AWS_ROLE_ARN: ${{ vars.AWS_ROLE_ARN }}
+      AWS_REGION: ${{ vars.AWS_REGION }}
+      S3_BUCKET: ${{ vars.S3_BUCKET }}
+      CF_DISTRIBUTION_ID: ${{ vars.CF_DISTRIBUTION_ID }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure AWS credentials (OIDC)
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ env.AWS_ROLE_ARN }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Sync site to S3
+        run: |
+          aws s3 sync . s3://$S3_BUCKET \
+            --delete \
+            --exclude ".git/*" \
+            --exclude ".github/*" \
+            --exclude "api/*" \
+            --exclude "scripts/*" \
+            --exclude "package*.json"
+
+      # Ensure HTML pages are served fresh by overriding cache headers for *.html
+      - name: Set no-cache headers for HTML
+        run: |
+          aws s3 cp . s3://$S3_BUCKET --recursive \
+            --exclude "*" --include "*.html" \
+            --content-type "text/html; charset=utf-8" \
+            --cache-control "no-cache, no-store, must-revalidate" \
+            --metadata-directive REPLACE
+
+      - name: Invalidate CloudFront
+        run: |
+          aws cloudfront create-invalidation \
+            --distribution-id "$CF_DISTRIBUTION_ID" \
+            --paths "/*"
+
